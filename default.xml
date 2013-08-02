@@ -451,5 +451,5 @@
   <project path="device/samsung/omap4-common" name="MoKee/android_device_samsung_omap4-common" />
   <project path="vendor/samsung/omap4-common" name="MoKee/android_vendor_samsung_omap4-common" />
   <project path="kernel/samsung/t1" name="MoKee/android_kernel_samsung_t1" />
-  <project path="packages/apps/SamsungServiceMode" remote = "cyanogen" revision="refs/heads/cm-10.2" name="MoKee/android_packages_apps_SamsungServiceMode" />
+  <project path="packages/apps/SamsungServiceMode" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_SamsungServiceMode" />
 </manifest>
