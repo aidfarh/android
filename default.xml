@@ -6,8 +6,8 @@
            review="android-review.googlesource.com" />
 
   <remote  name="cyanogen"
-           fetch="git://review.mfunz.com/github/CyanogenMod"
-           review="review.mfunz.com" />
+           fetch="https://github.com/CyanogenMod"
+           review="review.cyanogenmod.org" />
 
   <remote  name="local"
            fetch="git://review.mfunz.com/github"
