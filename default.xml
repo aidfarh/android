@@ -327,7 +327,7 @@
   <project path="packages/inputmethods/OpenWnn" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_inputmethods_OpenWnn" />
   <project path="packages/inputmethods/PinyinIME" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_inputmethods_PinyinIME" />
   <project path="packages/providers/ApplicationsProvider" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_providers_ApplicationsProvider" />
-  <project path="packages/providers/ContactsProvider" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_providers_ContactsProvider" />
+  <project path="packages/providers/ContactsProvider" remote = "aidfarh" revision="refs/heads/cm-10.2_aidfarhan" name="android_packages_providers_ContactsProvider" />
   <project path="packages/providers/DownloadProvider" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_providers_DownloadProvider" />
   <project path="packages/providers/DrmProvider" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_providers_DrmProvider" />
   <project path="packages/providers/MediaProvider" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_providers_MediaProvider" />
@@ -446,7 +446,7 @@
   <project path="vendor/mk" name="MoKee/android_vendor_mk" />
   <project path="device/generic/goldfish" name="MoKee/android_device_generic_goldfish" groups="pdk" />
   <!-- Devices Paired End -->
-  <project path="device/samsung/i9100g" name="MoKee/android_device_samsung_i9100g" />
+  <project path="device/samsung/i9100g" remote="aidfarh" revision="refs/heads/jb-mr2_mkt_aidfarhan" name="android_device_samsung_i9100g" />
   <project path="vendor/samsung/i9100g" name="MoKee/android_vendor_samsung_i9100g" />
   <project path="device/samsung/omap4-common" name="MoKee/android_device_samsung_omap4-common" />
   <project path="vendor/samsung/omap4-common" revision="refs/heads/jb-mr1_mkt" name="MoKee/android_vendor_samsung_omap4-common" />
