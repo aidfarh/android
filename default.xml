@@ -20,6 +20,9 @@
            fetch=".."
            review="review.mfunz.com" />
 
+  <remote  name="aidfarh"
+	   fetch="git://github.com/aidfarh" />
+	   
   <default
            revision="refs/heads/jb-mr2_mkt"
            remote="mokee"
