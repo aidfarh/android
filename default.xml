@@ -386,7 +386,7 @@
   <project path="prebuilts/tools" name="platform/prebuilts/tools" remote="aosp" revision="refs/tags/android-4.3_r2.2" groups="pdk,tools" />
   <project path="sdk" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_sdk" />
   <project path="system/bluetooth" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_system_bluetooth" groups="pdk" />
-  <project path="system/extras" remote = "aidfarh" revision="refs/heads/cm-10.2_aidfarhan" name="android_system_extras" groups="pdk" />
+  <project path="system/extras" remote = "aidfarh" revision="refs/heads/cm-10.2" name="android_system_extras" groups="pdk" />
   <project path="system/media" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_system_media" groups="pdk" />
   <project path="system/netd" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_system_netd" groups="pdk" />
   <project path="system/security" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_system_security" groups="pdk" />
