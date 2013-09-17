@@ -410,7 +410,7 @@
   <project path="vendor/tmobile/providers/ThemeManager" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_vendor_tmobile_providers_ThemeManager" />
 
   <!-- MoKee Bootable Start -->
-  <project path="bootable/recovery" remote="aidfarh" revision="refs/heads/twrp2.7" name="Team-Win-Recovery-Project" />
+  <project path="bootable/recovery" remote="aidfarh" revision="refs/heads/cm-10.2" name="Team-Win-Recovery-Project" />
   <!-- MoKee Bootable End -->
 
   <!-- MoKee External Start -->
