@@ -479,5 +479,5 @@
   <project path="vendor/samsung/p31xx" name="MoKee/android_vendor_samsung_p31xx" />
   <project path="kernel/samsung/t1" name="aidfarh/android_kernel_samsung_t1" revision="refs/heads/jb-mr2_mkt_aidfarhan"/>
   <project path="kernel/samsung/espresso10" name="MoKee/android_kernel_samsung_espresso10" />
-  <project path="packages/apps/SamsungServiceMode" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_SamsungServiceMode" />
+  <project path="packages/apps/SamsungServiceMode" remote = "cyanogen" revision="refs/heads/cm-10.2" name="github/CyanogenMod/android_packages_apps_SamsungServiceMode" />
 </manifest>
